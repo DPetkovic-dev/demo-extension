@@ -1,0 +1,10 @@
+{
+	"name": "secure-exam-proctor",
+	"version": "1.0.0",
+	"description": "Clientside web browser extension.",
+	"type": "module",
+	"author": "Dejan",
+	"license": "UNLICENSED",
+	"devDependencies": {
+	}
+}
